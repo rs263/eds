@@ -261,5 +261,7 @@ main .section.highlight {
     font-size: 2rem;
 }
 .center-size {
+  text-align: center;
   font-weight: bold;   
+    font-size: 2rem;  
 }
