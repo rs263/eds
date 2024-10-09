@@ -260,7 +260,3 @@ main .section.highlight {
   font-weight: bold;   
     font-size: 2rem;
 }
-img.center-image {
-  max-width: 50%;
-  height: 50%;
-}
