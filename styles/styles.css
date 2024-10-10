@@ -262,3 +262,6 @@ main .section.highlight {
     font-size: 2rem;
 }
 
+.default-content-wrapper picture img{
+  width : 50%;
+}
