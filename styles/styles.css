@@ -261,8 +261,3 @@ main .section.highlight {
   font-weight: bold;   
     font-size: 2rem;
 }
-
-.default-content-wrapper picture img{
-  width : 10%;
-}
-
