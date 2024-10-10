@@ -211,8 +211,9 @@ button.secondary {
 }
 
 main img {
-  max-width: 20%;
-
+  max-width: 100%;
+width: auto;
+height : auto;
  
 }
 
