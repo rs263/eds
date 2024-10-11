@@ -127,6 +127,7 @@ pre,
 blockquote {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
+  text-align: center;
 }
 
 code,
@@ -261,3 +262,6 @@ main .section.highlight {
   font-weight: bold;   
     font-size: 2rem;
 }
+
+
+
