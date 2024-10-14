@@ -256,11 +256,9 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
 .center-text {
   text-align: center;
   font-weight: bold;   
     font-size: 2rem;
 }
-
-
-
